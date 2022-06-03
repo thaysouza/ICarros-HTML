@@ -8,6 +8,9 @@
 
 > Este projeto foi desenvolvido durante as aulas do curso **#AceleraiCarros_Tech**, oferecido pela Gama Academy. 
 
+## Status 
+👩🏻‍💻 Em desenvolvimento.
+
 ## Recursos e Ferramentas 
 
 * Git<br>
